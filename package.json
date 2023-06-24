@@ -1,0 +1,27 @@
+{
+	"name": "runningpengui-dark",
+	"displayName": "Running Penguin",
+	"description": "A theme to work happy like a running penguin",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.79.0"
+	},
+	"icon": "",
+	"author": {
+		"name": "Matteo 'Maio' Barbero",
+		"email": "maiowebdesign@gmail.com",
+		"url": "https://www.linkedin.com/in/matteo-barbero-b04647155/"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Running Penguin",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Running Penguin-color-theme.json"
+			}
+		]
+	}
+}
