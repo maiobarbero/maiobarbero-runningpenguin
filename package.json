@@ -2,6 +2,7 @@
 	"name": "runningpengui-dark",
 	"displayName": "Running Penguin",
 	"description": "A theme to work happy like a running penguin",
+	"publisher": "matteobarbero",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.79.0"
