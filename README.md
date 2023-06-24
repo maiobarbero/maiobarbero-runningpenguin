@@ -1,6 +1,6 @@
 # The Running Penguin - Visual Studio Code Color Theme
 
-![The Running Penguin](theme-preview.png)
+![The Running Penguin](/images/running-penguin-react.png)
 
 **The Running Penguin** is a custom color theme for Visual Studio Code inspired by the colors of Tailwind CSS, with a primary focus on Emerald.
 

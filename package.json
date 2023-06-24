@@ -6,11 +6,15 @@
 	"engines": {
 		"vscode": "^1.79.0"
 	},
-	"icon": "",
+	"icon": "/icons/running-penguin-icon.png",
 	"author": {
 		"name": "Matteo 'Maio' Barbero",
 		"email": "maiowebdesign@gmail.com",
 		"url": "https://www.linkedin.com/in/matteo-barbero-b04647155/"
+	},
+	"repository": {
+		"url": "https://github.com/maiobarbero/running-penguin",
+		"type": "git"
 	},
 	"categories": [
 		"Themes"
