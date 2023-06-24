@@ -6,7 +6,7 @@
 	"engines": {
 		"vscode": "^1.79.0"
 	},
-	"icon": "/icons/running-penguin-icon.png",
+	"icon": "icons/running-penguin-icon.png",
 	"author": {
 		"name": "Matteo 'Maio' Barbero",
 		"email": "maiowebdesign@gmail.com",
